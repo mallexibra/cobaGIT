@@ -1,4 +1,7 @@
 # cobaGIT
+ini commit agung
+ini commit 2
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,3 +29,4 @@
     Browser tidak akan menampilkan teks antara tag <!-- dan -->.<br>
 </body>
 </html>
+
